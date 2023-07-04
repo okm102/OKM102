@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @okm102
+- 👋 Hi, I’m Om ∼ 18 years old
 - 👀 I’m interested in game development and app development
-- 🌱 Python, C#, VB, Html/css/javascript, Kotlin
+- 🖥️ Python, C#, VB, HTML/CSS, Javascript, Kotlin
+- 👨‍💻 Working on a social media app, and a competitive aim training game
