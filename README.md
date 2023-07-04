@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @OKM102
+- 👋 Hi, I’m @okm102
 - 👀 I’m interested in game development and app development
 - 🌱 Python, C#, VB, Html/css/javascript, Kotlin
